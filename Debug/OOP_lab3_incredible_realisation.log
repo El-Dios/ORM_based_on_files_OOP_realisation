@@ -1,0 +1,9 @@
+﻿  OOP_lab3_incredible_realisation.cpp
+E:\Archivus\Georges_documents\Documents\7semestr\stud\OOP\8s\lab3\OOP_lab3_incredible_realisation\OOP_lab3_incredible_realisation.cpp(168,36): warning C4018: '<': signed/unsigned mismatch
+E:\Archivus\Georges_documents\Documents\7semestr\stud\OOP\8s\lab3\OOP_lab3_incredible_realisation\OOP_lab3_incredible_realisation.cpp(469,31): warning C4804: '<=': unsafe use of type 'bool' in operation
+E:\Archivus\Georges_documents\Documents\7semestr\stud\OOP\8s\lab3\OOP_lab3_incredible_realisation\OOP_lab3_incredible_realisation.cpp(489,29): warning C4804: '<=': unsafe use of type 'bool' in operation
+E:\Archivus\Georges_documents\Documents\7semestr\stud\OOP\8s\lab3\OOP_lab3_incredible_realisation\OOP_lab3_incredible_realisation.cpp(522,23): warning C4804: '<': unsafe use of type 'bool' in operation
+E:\Archivus\Georges_documents\Documents\7semestr\stud\OOP\8s\lab3\OOP_lab3_incredible_realisation\OOP_lab3_incredible_realisation.cpp(555,23): warning C4804: '<': unsafe use of type 'bool' in operation
+E:\Archivus\Georges_documents\Documents\7semestr\stud\OOP\8s\lab3\OOP_lab3_incredible_realisation\OOP_lab3_incredible_realisation.cpp(98): warning C4715: 'Pbd::hashit': not all control paths return a value
+E:\Archivus\Georges_documents\Documents\7semestr\stud\OOP\8s\lab3\OOP_lab3_incredible_realisation\OOP_lab3_incredible_realisation.cpp(311): warning C4715: '<lambda_445bb2cd514153f58381191a867f874e>::operator()': not all control paths return a value
+  OOP_lab3_incredible_realisation.vcxproj -> E:\Archivus\Georges_documents\Documents\7semestr\stud\OOP\8s\lab3\OOP_lab3_incredible_realisation\Debug\OOP_lab3_incredible_realisation.exe
